@@ -5,7 +5,7 @@ This project investigates the application of machine learning algorithms for the
 # Installation
 To install and run this project, follow these steps:
 
-Clone the repository.
-Install the required dependencies.
-Run the project.
+1. Clone the repository.
+2. Install the required dependencies.
+3. Run the project.
 
